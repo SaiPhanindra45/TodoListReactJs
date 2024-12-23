@@ -1,2 +1,2 @@
 # TodoListReactJs
-My first project using React as a frontend language
+My first project using React
